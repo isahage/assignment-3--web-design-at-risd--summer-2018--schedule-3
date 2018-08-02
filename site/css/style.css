@@ -12,3 +12,11 @@ body {
   position:relative;
 }
 
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  color: blue;
+  text-align: right;
+  font-weight: lighter;
+  margin-top: 2%;
+}
