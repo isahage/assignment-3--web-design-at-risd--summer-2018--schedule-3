@@ -37,3 +37,12 @@ h3 {
   line-height: 65%;
   margin-top: 0;
 }
+h3-second-child {
+  font-family: 'Roboto', sans-serif;
+  font-size: 150px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 50%;
+  margin-top: 0;
+
+}
