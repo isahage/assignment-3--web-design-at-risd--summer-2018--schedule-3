@@ -184,3 +184,19 @@ p-sixth-child {
   width: 903px;
   height: 175px;
 }
+p-seventh-child {
+  margin-top: 3101px;
+  margin-left: 150px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  text-align: left;
+  font-weight: bold;
+  position:absolute;
+  font-stretch: condensed;
+  color: red;
+  top: -244px;
+  right: 496px;
+  left: -78px;
+  width: 903px;
+  height: 175px;
+}
