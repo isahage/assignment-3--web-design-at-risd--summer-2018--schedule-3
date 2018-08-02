@@ -427,3 +427,9 @@ div-first-child {
       padding: inherit;
    }
 }
+@media (max-width: 700px) {
+   #container {
+      width: 60%;
+      padding: inherit;
+   }
+}
