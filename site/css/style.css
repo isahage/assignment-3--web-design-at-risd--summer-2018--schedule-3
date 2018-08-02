@@ -103,3 +103,20 @@ h6 {
   font-stretch: condensed;
   color: orange;
 }
+p-second-child {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: right;
+  line-height: 70%;
+  margin-top: 0;
+  margin-bottom: 5%;
+  top: 795px;
+  right: 0px;
+  left: 143px;
+  width: 648px;
+  height: 0px;
+  position:absolute;
+  z-index: 2;
+
+}
