@@ -168,3 +168,19 @@ p-fifth-child {
   width: 903px;
   height: 175px;
 }
+p-sixth-child {
+  margin-top: 2708px;
+  margin-left: 150px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  text-align: left;
+  font-weight: bold;
+  position:absolute;
+  font-stretch: condensed;
+  color: yellow;
+  top: -244px;
+  right: 496px;
+  left: -78px;
+  width: 903px;
+  height: 175px;
+}
