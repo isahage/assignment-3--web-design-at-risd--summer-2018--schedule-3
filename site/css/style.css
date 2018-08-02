@@ -232,3 +232,19 @@ p-ninth-child {
   width: 965px;
   height: 175px;
 }
+p-tenth-child {
+  margin-top: 4203px;
+  margin-left: 150px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  text-align: left;
+  font-weight: bold;
+  position:absolute;
+  font-stretch: condensed;
+  color: orange;
+  top: -244px;
+  right: 496px;
+  left: -78px;
+  width: 965px;
+  height: 175px;
+}
