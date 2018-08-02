@@ -418,3 +418,12 @@ p {
   height: 0px;
   z-index:3;
 }
+div-first-child {
+  width: 100px;
+}
+@media (max-width: 1080px) {
+   #container {
+      width: 80%;
+      padding: inherit;
+   }
+}
