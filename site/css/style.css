@@ -77,3 +77,20 @@ h5 {
   z-index: -5;
 }
 
+p-first-child {
+    margin-top: 167px;
+    margin-left: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    text-align: left;
+    font-weight: bold;
+    position:absolute;
+    font-stretch: condensed;
+    color: red;
+    top: -244px;
+    right: 637px;
+    left: -90px;
+    width: 500px;
+    height: 80px;
+}
+
