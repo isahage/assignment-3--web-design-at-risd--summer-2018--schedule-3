@@ -120,3 +120,19 @@ p-second-child {
   z-index: 2;
 
 }
+p-third-child {
+  margin-top: 1551px;
+  margin-left: 150px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  text-align: left;
+  font-weight: bold;
+  position:absolute;
+  font-stretch: condensed;
+  color: orange;
+  top: -244px;
+  right: 496px;
+  left: -78px;
+  width: 703px;
+  height: 175px;
+}
